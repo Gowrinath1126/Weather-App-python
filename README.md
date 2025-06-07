@@ -10,8 +10,7 @@ Create a folder: weather-app
 
 Inside, create a file: weather.py
 
-
-now run the this command:python weather.py
+run the command: python weather.py
 
 
 OUTPUT:
