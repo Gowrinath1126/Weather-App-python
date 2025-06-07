@@ -14,16 +14,21 @@ Inside, create a file: weather.py
 now run the this command:python weather.py
 
 
-------------------------------------------------------------------------------output---------------------------------------------------------------------------
+OUTPUT:
 
- ========================================
+ 
    🌤️ Python Weather App 🌤️   
- ========================================
+
 
 🏙️ Enter city name (or 'exit' to quit): Chennai
 
 🌍 Weather in Chennai, IN
+
 🌡️ Temperature: 33°C
+
 ☁️ Weather: Clear Sky
+
 💧 Humidity: 65%
+
 💨 Wind Speed: 3.6 m/s
+
